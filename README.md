@@ -38,7 +38,7 @@ Make a restaurant management app where the completed just the frontend part clea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 
 ## GitHub Activity Graph

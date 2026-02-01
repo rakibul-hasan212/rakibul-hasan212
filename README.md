@@ -31,19 +31,7 @@ Make a restaurant management app where the completed just the frontend part clea
 
 ---
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-hasan212&theme=radical" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/rakibul-hasan212/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakibul-hasan212" alt="trophy" />
 
 ## GitHub Activity Graph
 

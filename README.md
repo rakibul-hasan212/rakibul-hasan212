@@ -4,8 +4,9 @@
 Hi! I am Md. Rakibul hasan, I completed my undergraduate B.sc in computer science Engineering from Green University of Bangladesh.
 I am very passionate about my work. I always try to know new technologies environment. I'm expert on Flutter, also have enough knowledge on C, Java,JavaSwing,JavaScript, Python. Have great idea of OOP. Always wait for a chance to explore myself and doing something great using different tools that i had learnt till the date.
 
-## Contact Me
-<p><a href="www.linkedin.com/in/rakibul-hasan215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.facebook.com/rakibul2040" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://www.instagram.com/rakibulhasan7551/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibul2040) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakibulhasan7551) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibul-hasan215) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egnrakibul212@gmail.com) 
 
 ## Skills
 
@@ -31,6 +32,13 @@ Make a restaurant management app where the completed just the frontend part clea
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rakibul-hasan212&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 ## GitHub Activity Graph

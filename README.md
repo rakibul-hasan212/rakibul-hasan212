@@ -1,8 +1,20 @@
 # Hello 👋, I'm Rakibul Hasan
-### Flutter Developer
+
+💻 **Dart & Flutter Enthusiast | Aspiring Software Developer**
 
 Hi! I am Md. Rakibul hasan, I completed my undergraduate B.sc in computer science Engineering from Green University of Bangladesh.
-I am very passionate about my work. I always try to know new technologies environment. I'm expert on Flutter, also have enough knowledge on C, Java,JavaSwing,JavaScript, Python. Have great idea of OOP. Always wait for a chance to explore myself and doing something great using different tools that i had learnt till the date.
+I am a passionate beginner developer focused on building a strong foundation in programming through practical projects and continuous learning. I enjoy solving problems, writing clean code, and exploring how real-world applications are built.
+
+---
+
+## 🚀 What I'm Doing
+
+* 🔭 Working on beginner-to-intermediate Dart projects
+* 🌱 Learning Flutter for mobile app development
+* 🧠 Improving problem-solving and coding logic
+* 📦 Building small projects to understand real-world features
+
+---
 
 
 ## 🌐 Socials:
@@ -22,6 +34,17 @@ I am very passionate about my work. I always try to know new technologies enviro
 <img src="https://images.icon-icons.com/2415/PNG/512/c_plain_logo_icon_146610.png" alt="c" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+## 📌 Goals
+
+* Become a professional Software Developer
+* Build real-world applications
+* Contribute to open-source projects
+* Continuously improve coding skills
+
+---
+
 ## Projects
 
 ### Restaurant Management Feature
@@ -31,11 +54,23 @@ Make a restaurant management app where the completed just the frontend part clea
 [View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
 ---
+## 🛠️ Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakibul-hasan212&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* **Languages:** Dart
+* **Learning:** Flutter, App Development
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Focus
+
+* Beginner-friendly structured repositories
+* Gradually improve towards advanced developer
+* Clean and readable code
+* Practice-based learning projects
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
@@ -44,4 +79,17 @@ Make a restaurant management app where the completed just the frontend part clea
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibul-hasan212&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/rakibul-hasan212
+
+---
+
+## 💡 Personal Motto
+
+> “Keep learning, keep building, and never stop improving.” 🚀
+
 

@@ -1,4 +1,4 @@
-# Hello 👋, I'm Rakibul Hasan
+# Hi 👋, I'm Rakibul Hasan
 
 💻 **Dart & Flutter Enthusiast | Aspiring Software Developer**
 

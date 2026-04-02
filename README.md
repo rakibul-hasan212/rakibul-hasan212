@@ -60,7 +60,7 @@ This project is designed to showcase how common restaurant system features can b
 
  In this project add Loginpage, Signuppage with MatarialPageRoute to Navigate Pages.It a intermediate level Protfolio Design there is Drawer also. It create a great impression as protfolio.
 
-[View Project]([lib/profileUI](https://github.com/rakibul-hasan212/flutter-ui-showcase/tree/main/lib/profileUI)) 
+[View Project](https://github.com/rakibul-hasan212/flutter-ui-showcase/tree/main/lib/profileUI) 
 
 ---
 ## 🛠️ Tech Stack

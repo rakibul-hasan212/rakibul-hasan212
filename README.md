@@ -58,7 +58,8 @@ This project is designed to showcase how common restaurant system features can b
 
  ### Profile UI
 
- In this project add Loginpage, Signuppage with MatarialPageRoute to Navigate Pages.It a intermediate level Protfolio Design there is Drawer also. It create a great impression as protfolio.
+ Profile UI is a clean and modern profile screen design built using Flutter.
+This project demonstrates how to design a user profile interface with proper layout, styling, and reusable widgets.In this project add Loginpage, Signuppage with MatarialPageRoute to Navigate Pages.It a intermediate level Protfolio Design there is Drawer also. It create a great impression as protfolio.
 
 [View Project](https://github.com/rakibul-hasan212/flutter-ui-showcase/tree/main/lib/profileUI) 
 

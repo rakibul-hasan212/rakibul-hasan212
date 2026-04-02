@@ -59,7 +59,7 @@ Make a restaurant management app where the completed just the frontend part clea
 
  In this project add Loginpage, Signuppage with MatarialPageRoute to Navigate Pages.It a intermediate level Protfolio Design there is Drawer also. It create a great impression as protfolio.
 
-[View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
+[View Project](lib/profileUI) 
 
 ---
 ## 🛠️ Tech Stack

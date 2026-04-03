@@ -97,6 +97,8 @@ This project demonstrates how to design a user profile interface with proper lay
 * GitHub: https://github.com/rakibul-hasan212
 * Personal Mail: rakibul.hasan212.dev@gmail.com
 * Linkedln: https://www.linkedin.com/in/rakibul-hasan215/
+* Facebook: https://www.facebook.com/rakibul2040
+* WhatsApp: 01706-658215
 
 ---
 

@@ -9,8 +9,8 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
 ## 🚀 What I'm Doing
 
-* 🔭 Working on beginner-to-intermediate Dart projects
-* 🌱 Learning State Management and Firebase 
+* 🔭 Working on intermediate to advanced level Real-world based projects
+* 🌱 Apply State Management and Firebase(CRUD operation) in My projects 
 * 🧠 Improving problem-solving and coding logic
 * 📦 Building small projects to understand real-world features
 

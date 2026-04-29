@@ -89,7 +89,7 @@ This project is designed to showcase how common restaurant system features can b
 
 ---
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul Hasan;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul hasan;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀">
 </h1>
 
 <p align="center">
@@ -112,34 +112,6 @@ This project is designed to showcase how common restaurant system features can b
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rakibul-hasan212&theme=tokyonight" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/YOUR_LINK">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐️ From YOUR_NAME
-
-
-## 📊 GitHub Focus
-
-* Beginner-friendly structured repositories
-* Gradually improve towards advanced developer
-* Clean and readable code
-* Practice-based learning projects
 
 ---
 
@@ -168,4 +140,22 @@ This project is designed to showcase how common restaurant system features can b
 
 > “Keep learning, keep building, and never stop improving.” 🚀
 
+---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/rakibul-hasan215/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/(https://www.facebook.com/rakibul2040)">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:rakibul.hasan212.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ From Rakibul hasan
 

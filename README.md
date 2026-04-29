@@ -9,10 +9,13 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
 ## 🚀 What I'm Doing
 
-* 🔭 Working on intermediate to advanced level Real-world based projects
+* 🔭 I’m currently working on Flutter projects
+* 🌱 I’m learning advanced app architecture
 * 🌱 Apply State Management and Firebase(CRUD operation) in My projects 
 * 🧠 Improving problem-solving and coding logic
 * 📦 Building small projects to understand real-world features
+* 💡 Love problem solving & clean code
+* 📫 Reach me: rakibul.hasan212.dev@gmail.com
 
 ---
 
@@ -20,19 +23,6 @@ I am a passionate beginner developer focused on building a strong foundation in 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibul2040) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakibulhasan7551) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibul-hasan215) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egnrakibul212@gmail.com) 
 
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="https://images.icon-icons.com/2415/PNG/512/c_plain_logo_icon_146610.png" alt="c" width="40" height="40"/>&nbsp;
-</p>
 
 ## 🚀 Skills
 
@@ -49,23 +39,6 @@ I am a passionate beginner developer focused on building a strong foundation in 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 </p>
-
-## 🚀 Skills
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/>
-<img src="https://images.icon-icons.com/2415/PNG/512/c_plain_logo_icon_146610.png" height="50"/>
-
-</div>
-
 
 ---
 
@@ -116,38 +89,11 @@ This project is designed to showcase how common restaurant system features can b
 
 ---
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+YOUR_NAME;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul Hasan;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🔭 I’m currently working on Flutter projects
-* 🌱 I’m learning advanced app architecture
-* 💡 Love problem solving & clean code
-* 📫 Reach me: YOUR_EMAIL
-
----
-
-## 🚀 Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
+  <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -155,8 +101,8 @@ This project is designed to showcase how common restaurant system features can b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -164,7 +110,7 @@ This project is designed to showcase how common restaurant system features can b
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rakibul-hasan212&theme=tokyonight" />
 </p>
 
 ---

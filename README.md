@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=5000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rakibul+Hasan;Mobile+App+Developer(Flutter);Flutter+Developer;Dart+Flutter+Enthusiast;Aspiring+Software+Developer;Always+Learning+New+Things🚀" />
 </h1>
 
----
-
 ## Hi!👋 I'm Rakibul Hasan
 
 💻 **Mobile App Developer(Flutter) | Dart & Flutter Enthusiast | Aspiring Software Developer**
@@ -107,19 +105,12 @@ This project is designed to showcase how common restaurant system features can b
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-</p>    
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
+
 ---
 
 ## GitHub Activity Graph

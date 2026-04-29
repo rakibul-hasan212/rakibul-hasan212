@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakibul Hasan
 
-💻 **Dart & Flutter Enthusiast | Aspiring Software Developer**
+💻 **Mobile App Developer(Flutter) | Dart & Flutter Enthusiast | Aspiring Software Developer**
 
 Hi! I am Md. Rakibul hasan, I completed my undergraduate B.sc in computer science Engineering from Green University of Bangladesh.
 I am a passionate beginner developer focused on building a strong foundation in programming through practical projects and continuous learning. I enjoy solving problems, writing clean code, and exploring how real-world applications are built.

@@ -113,6 +113,13 @@ This project is designed to showcase how common restaurant system features can b
 
 ---
 
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&animation=grow_out_in" />
+</p>
+
+
 ## GitHub Activity Graph
 
 <p align="center">

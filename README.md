@@ -1,4 +1,12 @@
-# Hi 👋, I'm Rakibul Hasan
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul+Hasan;Mobile+App+Developer(Flutter);Flutter+Developer;Dart+&+Flutter+Enthusiast;Aspiring+Software+Developer;Always+Learning+New+Things🚀" />
+</h1>
+
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20views&color=0e75b6&style=flat" />
+</h3>
+
+---
 
 💻 **Mobile App Developer(Flutter) | Dart & Flutter Enthusiast | Aspiring Software Developer**
 
@@ -83,19 +91,24 @@ This project is designed to showcase how common restaurant system features can b
 * **Responsive Design:** MediaQuery, LayoutBuilder
 
 ---
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul+hasan;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul+Hasan;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀">
 </h1>
 
-<p align="center">
+<h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</h3>
 
 ---
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rakibul+Hasan;Flutter+Developer;Competitive+Programmer;Always+Learning+New+Things🚀" />
 </h1>
+
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20views&color=0e75b6&style=flat" />
+</h3>
 
 ---
 

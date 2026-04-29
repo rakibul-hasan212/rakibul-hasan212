@@ -107,15 +107,13 @@ This project is designed to showcase how common restaurant system features can b
 
 ---
 
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
-
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-  
-</p>
+</p>    
 
+---
 
 ## GitHub Activity Graph
 

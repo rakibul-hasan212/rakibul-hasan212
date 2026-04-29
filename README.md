@@ -69,6 +69,9 @@ This project demonstrates how to design a user profile interface with proper lay
 * **Languages:** Dart
 * **Learning:** Flutter, App Development
 * **Tools:** Git, GitHub, VS Code
+* **State Management:** Provider, GetX
+* **API Integration:** REST API Integration(GET, POST, DELETE, PUT/PATCH, JSON Parsing)
+* **Responsive Design:** MediaQuery, LayoutBuilder
 
 ---
 

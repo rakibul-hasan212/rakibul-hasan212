@@ -97,6 +97,14 @@ This project is designed to showcase how common restaurant system features can b
 
 ---
 
+## GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibul-hasan212&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -109,15 +117,6 @@ This project is designed to showcase how common restaurant system features can b
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</p>
-
----
-
-
-## GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibul-hasan212&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </p>
 
 ---

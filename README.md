@@ -47,7 +47,7 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
 ## Projects
 
- ### Restaurant Management Feature
+ ### Notes-App
 
 Make a restaurant management app where the completed just the frontend part clearly. The work not done yet. It was my varsity project in my 3rd or 4th semester.
 This project is designed to showcase how common restaurant system features can be implemented, making it useful for beginners and developers exploring real-world app concepts.
@@ -62,6 +62,15 @@ This project is designed to showcase how common restaurant system features can b
 This project demonstrates how to design a user profile interface with proper layout, styling, and reusable widgets.In this project add Loginpage, Signuppage with MatarialPageRoute to Navigate Pages.It a intermediate level Protfolio Design there is Drawer also. It create a great impression as protfolio.
 
 [View Project](https://github.com/rakibul-hasan212/flutter-ui-showcase/tree/main/lib/profileUI) 
+
+---
+
+ ### Restaurant Management Feature
+
+Make a restaurant management app where the completed just the frontend part clearly. The work not done yet. It was my varsity project in my 3rd or 4th semester.
+This project is designed to showcase how common restaurant system features can be implemented, making it useful for beginners and developers exploring real-world app concepts.
+
+[View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
 ---
 ## 🛠️ Tech Stack

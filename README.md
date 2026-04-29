@@ -49,8 +49,7 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
  ### Notes-App
 
-Make a restaurant management app where the completed just the frontend part clearly. The work not done yet. It was my varsity project in my 3rd or 4th semester.
-This project is designed to showcase how common restaurant system features can be implemented, making it useful for beginners and developers exploring real-world app concepts.
+A real-time Notes Application built with Flutter and Firebase, allowing users to securely create, update, and manage their personal notes. The app uses Firebase Authentication for user login and Cloud Firestore for storing data with real-time synchronization. Each user has their own private notes, ensuring data security and proper organization. The application is use GetX for efficient state management, navigation, and clean architecture.
 
 [View Project](https://github.com/rakibul-hasan212/note_app)
 

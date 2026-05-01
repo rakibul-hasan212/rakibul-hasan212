@@ -72,6 +72,7 @@ This project demonstrates how to design a user profile interface with proper lay
  ### Restaurant Management Feature
 
 Built a feature-rich restaurant application prototype using Flutter, including menu display, user interaction flows, and dynamic UI components. Focused on real-world usability and scalable design structure. Project not done yet, complete the project in hurry!
+
 [View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
 ---

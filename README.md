@@ -19,7 +19,7 @@ I am a passionate beginner developer focused on building a strong foundation in 
 * 🧠 Improving problem-solving and coding logic
 * 📦 Building small projects to understand real-world features
 * 💡 Love problem solving & clean code
-* 📫 Reach me: rakibul.hasan212.dev@gmail.com
+* 📫 Reach me: egnrakibul212@gmail.com
 
 ---
 
@@ -140,7 +140,7 @@ Built a feature-rich restaurant application prototype using Flutter, including m
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:rakibul.hasan212.dev@gmail.com">
+  <a href="mailto:egnrakibul212@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 

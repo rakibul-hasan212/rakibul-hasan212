@@ -87,6 +87,42 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 
 ---
 
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,cpp,mysql" />
+
+</div>
+
+---
+
+# ⚡ Flutter Expertise
+
+<div align="center">
+```dart
+class RakibulHasan {
+
+  final String role = "Flutter Developer";
+
+  List<String> skills = [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "GetX",
+    "REST API",
+    "Responsive UI",
+    "Clean Architecture"
+  ];
+
+  String lifeMotto =
+      "Code • Learn • Build • Repeat 🚀";
+}
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

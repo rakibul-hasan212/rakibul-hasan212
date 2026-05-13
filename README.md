@@ -90,9 +90,11 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -109,6 +111,16 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rakibul-hasan212&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rakibul-hasan212&theme=tokyonight&row=1&column=6"/>
+
 </p>
 
 ---
@@ -150,6 +162,18 @@ Built a feature-rich restaurant application prototype using Flutter, including m
   </a>
 
 </p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">Thanks for visiting ❤️</h3>
 
 ---
 

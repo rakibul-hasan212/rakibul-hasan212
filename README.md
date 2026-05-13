@@ -41,6 +41,24 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
 ---
 
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,cpp,mysql" />
+
+</div>
+
+
+* **Languages:** Dart
+* **Learning:** Flutter, App Development
+* **Tools:** Git, GitHub, VS Code
+* **State Management:** Provider, GetX
+* **API Integration:** REST API Integration(GET, POST, DELETE, PUT/PATCH, JSON Parsing)
+* **Responsive Design:** MediaQuery, LayoutBuilder
+
+---
+
 ## 📌 Goals
 
 * Become a professional Software Developer
@@ -75,51 +93,6 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 
 [View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
----
-## 🛠️ Tech Stack
-
-* **Languages:** Dart
-* **Learning:** Flutter, App Development
-* **Tools:** Git, GitHub, VS Code
-* **State Management:** Provider, GetX
-* **API Integration:** REST API Integration(GET, POST, DELETE, PUT/PATCH, JSON Parsing)
-* **Responsive Design:** MediaQuery, LayoutBuilder
-
----
-
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,cpp,mysql" />
-
-</div>
-
----
-
-# ⚡ Flutter Expertise
-
-<div align="center">
-```dart
-class RakibulHasan {
-
-  final String role = "Flutter Developer";
-
-  List<String> skills = [
-    "Flutter",
-    "Dart",
-    "Firebase",
-    "GetX",
-    "REST API",
-    "Responsive UI",
-    "Clean Architecture"
-  ];
-
-  String lifeMotto =
-      "Code • Learn • Build • Repeat 🚀";
-}
-</div>
 
 ---
 

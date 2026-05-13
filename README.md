@@ -35,6 +35,8 @@ I am a passionate beginner developer focused on building a strong foundation in 
 ![Provider](https://img.shields.io/badge/Provider-1976D2?style=for-the-badge&logo=flutter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=flutter&logoColor=white)
+![go_router](https://img.shields.io/badge/go__router-00BFA6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)

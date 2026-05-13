@@ -90,8 +90,9 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight" />
 </p>
 
 ---

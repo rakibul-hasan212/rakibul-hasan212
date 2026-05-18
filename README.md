@@ -23,7 +23,7 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
 ---
 
-## 🚀 Skills 
+## 🚀 Skilled On 
 
 <div align="center">
 
@@ -79,6 +79,14 @@ A real-time Notes Application built with Flutter and Firebase, allowing users to
 
 ---
 
+ ### Connectify
+
+A real-time Notes Application built with Flutter and Firebase, allowing users to securely create, update, and manage their personal notes. The app uses Firebase Authentication for user login and Cloud Firestore for storing data with real-time synchronization. Each user has their own private notes, ensuring data security and proper organization. The application is use GetX for efficient state management, navigation, and clean architecture.
+
+[View Project](https://github.com/rakibul-hasan212/note_app)
+
+---
+
  ### Profile UI
 
  Profile UI is a clean and modern profile screen design built using Flutter.
@@ -95,17 +103,6 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 [View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 

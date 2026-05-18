@@ -97,7 +97,7 @@ Important features implemented in the application include:
 * Firebase Firestore integration
 * Secure authentication system
 
-[View Project](https://github.com/rakibul-hasan212/note_app)
+[View Project](https://github.com/rakibul-hasan212/connectify)
 
 ---
 

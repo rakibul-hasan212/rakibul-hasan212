@@ -79,9 +79,23 @@ A real-time Notes Application built with Flutter and Firebase, allowing users to
 
 ---
 
- ### Connectify
+ ### Connectify- Real-Time Flutter chat Application
 
-A real-time Notes Application built with Flutter and Firebase, allowing users to securely create, update, and manage their personal notes. The app uses Firebase Authentication for user login and Cloud Firestore for storing data with real-time synchronization. Each user has their own private notes, ensuring data security and proper organization. The application is use GetX for efficient state management, navigation, and clean architecture.
+Connectify is a modern real-time chatting application built with Flutter and Firebase. The app is designed with a scalable and production-ready architecture to provide a smooth messaging experience similar to popular messaging platforms like WhatsApp and Messenger.
+
+Important features implemented in the application include:
+
+* Real-time one-to-one messaging
+* Smart chat room generation
+* Recent chat list system
+* User search functionality
+* Auto scroll to latest message
+* Smart timestamp formatting
+* Online/offline user status
+* Reusable custom widgets
+* Reactive UI with GetX
+* Firebase Firestore integration
+* Secure authentication system
 
 [View Project](https://github.com/rakibul-hasan212/note_app)
 

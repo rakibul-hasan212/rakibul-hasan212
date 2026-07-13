@@ -71,25 +71,10 @@ I am a passionate beginner developer focused on building a strong foundation in 
 * Continuously improve coding skills
 
 ---
+
 ## 🚀 Featured Projects
 
-⭐ Flutter Notes App
-
-⭐ Real-time Chat Application
-
-⭐ Flutter UI Showcase
-
-⭐ Restaurant Features App
-
-⭐ Personal Portfolio Website
-
-⭐ Firebase Authentication System
-
----
-
-## Projects
-
- ### Notes-App
+ ### ⭐ Notes-App
 
 A real-time Notes Application built with Flutter and Firebase, allowing users to securely create, update, and manage their personal notes. The app uses Firebase Authentication for user login and Cloud Firestore for storing data with real-time synchronization. Each user has their own private notes, ensuring data security and proper organization. The application is use GetX for efficient state management, navigation, and clean architecture.
 
@@ -97,7 +82,7 @@ A real-time Notes Application built with Flutter and Firebase, allowing users to
 
 ---
 
- ### Connectify- Real-Time Flutter chat Application
+ ### ⭐ Connectify- Real-Time Flutter chat Application
 
 Connectify is a modern real-time chatting application built with Flutter and Firebase. The app is designed with a scalable and production-ready architecture to provide a smooth messaging experience similar to popular messaging platforms like WhatsApp and Messenger.
 
@@ -119,7 +104,7 @@ Important features implemented in the application include:
 
 ---
 
- ### Profile UI
+ ### ⭐ Profile UI
 
  Profile UI is a clean and modern profile screen design built using Flutter.
 This project demonstrates how to design a user profile interface with proper layout, styling, and reusable widgets.In this project add Loginpage, Signuppage with MatarialPageRoute to Navigate Pages.It a intermediate level Protfolio Design there is Drawer also. It create a great impression as protfolio.
@@ -128,22 +113,13 @@ This project demonstrates how to design a user profile interface with proper lay
 
 ---
 
- ### Restaurant Management Feature
+ ### ⭐ Restaurant Management Feature
 
 Built a feature-rich restaurant application prototype using Flutter, including menu display, user interaction flows, and dynamic UI components. Focused on real-world usability and scalable design structure. Project not done yet, complete the project in hurry!
 
 [View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 

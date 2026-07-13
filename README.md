@@ -195,14 +195,6 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 
 ---
 
-## 👀 Visitor Count
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <h3 align="center">Thanks for visiting ❤️</h3>
 
 ---

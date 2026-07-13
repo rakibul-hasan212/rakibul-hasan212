@@ -71,6 +71,21 @@ I am a passionate beginner developer focused on building a strong foundation in 
 * Continuously improve coding skills
 
 ---
+## 🚀 Featured Projects
+
+⭐ Flutter Notes App
+
+⭐ Real-time Chat Application
+
+⭐ Flutter UI Showcase
+
+⭐ Restaurant Features App
+
+⭐ Personal Portfolio Website
+
+⭐ Firebase Authentication System
+
+---
 
 ## Projects
 
@@ -126,10 +141,8 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-    height="180"
-  />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-hasan212&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

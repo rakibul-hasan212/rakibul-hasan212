@@ -158,6 +158,10 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 
 <p align="center">
 
+  <a href="https://rakibul-hasan212-portfolio.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/> 
+  </a>
+
   <a href="https://github.com/rakibul-hasan212" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>

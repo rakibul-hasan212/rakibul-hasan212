@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=5000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rakibul+Hasan;Mobile+App+Developer(Flutter);Flutter+Developer;Dart+and+Flutter+Enthusiast;Aspiring+Software+Developer;Always+Learning+New+Things🚀" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakibul-hasan212&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ## Hi 👋, This is Rakibul Hasan
 
 💻 **Mobile App Developer(Flutter) | Dart & Flutter Enthusiast | Aspiring Software Developer**
@@ -127,7 +131,6 @@ Built a feature-rich restaurant application prototype using Flutter, including m
     height="180"
   />
 </p>
-
 
 ---
 

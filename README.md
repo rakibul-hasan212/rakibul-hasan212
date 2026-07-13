@@ -11,15 +11,14 @@ I am a passionate beginner developer focused on building a strong foundation in 
 
 ---
 
-## 🚀 What I'm Doing
+## 🌱 Currently Learning
 
-* 🔭 I’m currently working on Flutter projects
-* 🌱 I’m learning advanced app architecture
-* 🌱 Apply State Management and Firebase(CRUD operation) in My projects 
-* 🧠 Improving problem-solving and coding logic
-* 📦 Building small projects to understand real-world features
-* 💡 Love problem solving & clean code
-* 📫 Reach me: egnrakibul212@gmail.com
+- 📱 Flutter Clean Architecture
+- 🔥 Advanced Firebase
+- ⚡ Riverpod State Management
+- 🌐 REST API Integration
+- 🚀 CI/CD for Flutter Apps
+- 💻 Data Structures & Algorithms for App Development
 
 ---
 
@@ -116,6 +115,18 @@ Built a feature-rich restaurant application prototype using Flutter, including m
 
 [View Project](https://github.com/rakibul-hasan212/demo_restaurant_features)
 
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rakibul-hasan212&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    height="180"
+  />
+</p>
 
 
 ---
